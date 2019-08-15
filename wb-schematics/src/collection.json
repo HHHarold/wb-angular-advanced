@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "wb-schematics": {
+      "description": "A blank schematic.",
+      "factory": "./wb-schematics/index#wbSchematics"
+    }
+  }
+}
