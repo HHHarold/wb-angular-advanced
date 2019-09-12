@@ -3,7 +3,8 @@
   "schematics": {
     "wb-schematics": {
       "description": "A blank schematic.",
-      "factory": "./wb-schematics/index#wbSchematics"
+      "factory": "./wb-schematics/index#wbSchematics",
+      "schema": "./wb-schematics/schema.json"
     }
   }
 }
